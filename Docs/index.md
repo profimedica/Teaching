@@ -47,7 +47,7 @@
 		String interpolation
 		JSON pipes
 
-## Angular demo Projectw
+## Angular demo Project
 
 	Description:
 		A simple CRUD application.
